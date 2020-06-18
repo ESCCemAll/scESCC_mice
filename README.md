@@ -3,7 +3,7 @@
 
 ## Brief
 
-## Key software and algorithms 
+## Key software and algorithms for the article
 | Software |  Version |
 | -----    | ------  | 
 CellRanger |  2.1.0 |
@@ -16,7 +16,7 @@ GraphPad Prism |  7.0.4 |
 inForm |  2.4.2 |
 BD FACSDiva |  8.0.1 |
 
-### R package
+#### R package
 | Package |  Version |
 | -----    | ------  | 
 Seurat |  2.3.4 |
