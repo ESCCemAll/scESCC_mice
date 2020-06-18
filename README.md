@@ -1,7 +1,5 @@
 # scESCC_mice
 
-
-## Brief
 Example code to process and analyze data for the article. <br />
 Detailed information will be available from authors upon reasonable request.<br />
 <br />
