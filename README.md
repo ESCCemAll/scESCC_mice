@@ -1,6 +1,6 @@
 # scESCC_mice
 
-Example code to process and analyze data for the article. <br />
+Example scripts to process and analyze data for the article. <br />
 Detailed information will be available from authors upon reasonable request.<br />
 <br />
 
