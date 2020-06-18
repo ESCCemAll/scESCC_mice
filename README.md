@@ -22,6 +22,6 @@ BD FACSDiva |  8.0.1 |
 Seurat |  2.3.4 |
 GSVA |  1.30.0 |
 DESeq2 |  1.22.2 |
-Limma | v3.38.3 |
+Limma |  3.38.3 |
 monocle2 |  2.10.1 |
 SCENIC |  1.1.0 |
