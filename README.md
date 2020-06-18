@@ -2,6 +2,9 @@
 
 
 ## Brief
+Example code to process and analyze data for the article. <br />
+Detailed information will be available from authors upon reasonable request.<br />
+<br />
 
 ## Key software and algorithms for the article
 | Software |  Version |
